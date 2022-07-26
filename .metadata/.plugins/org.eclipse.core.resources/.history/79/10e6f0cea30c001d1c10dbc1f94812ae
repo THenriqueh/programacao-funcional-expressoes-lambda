@@ -1,0 +1,13 @@
+package aplication;
+
+import java.util.Comparator;
+
+public class MyComparator implements Comparator<MyComparator> {
+
+	@Override
+	public int compare(MyComparator p1, MyComparator p2) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}

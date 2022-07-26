@@ -1,0 +1,15 @@
+package aplication;
+
+import java.util.Comparator;
+
+import entities.Product;
+
+public class MyComparator implements Comparator<MyComparator> {
+
+	@Override
+	public int compare(Product p1, Product p2) {
+		
+		return 0;
+	}
+
+}
